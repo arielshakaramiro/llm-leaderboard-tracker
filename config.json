@@ -1,0 +1,24 @@
+{
+  "dataset": "lmarena-ai/leaderboard-dataset",
+  "arenas": {
+    "text": "Text",
+    "webdev": "WebDev",
+    "vision": "Vision"
+  },
+  "category": "overall",
+  "history_start": "2025-01-01",
+  "keep_top_n": 150,
+  "chart_days": 365,
+  "frontier_orgs": 6,
+  "table_size": 10,
+  "org_colors": {
+    "google": 1,
+    "anthropic": 2,
+    "openai": 3,
+    "xai": 4,
+    "deepseek": 5,
+    "alibaba": 6,
+    "zai": 7,
+    "moonshot": 8
+  }
+}
