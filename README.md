@@ -10,7 +10,7 @@ Two questions it answers at a glance:
 ## Latest standings
 
 <!-- LEADERBOARD_START -->
-_Tracked history: Text: 164 snapshots · WebDev: 92 snapshots · Vision: 112 snapshots_
+_Tracked history: Text: 164 snapshots · WebDev: 93 snapshots · Vision: 112 snapshots_
 
 ### Text Arena
 
@@ -37,22 +37,22 @@ Best open-weight model: `mimo-v2.6-pro` (xiaomi, MIT) at #10 with 1490.
 
 ### WebDev Arena
 
-Leaderboard published 2026-09-30 · change vs 2026-09-23.
+Leaderboard published 2026-10-01 · change vs 2026-09-24.
 
 | # | Δ | Model | Lab | License | Rating | 95% CI | Votes |
 |--:|:-:|-------|-----|---------|-------:|:------:|------:|
-| 1 | = | `claude-opus-5.5-max` | anthropic | Proprietary | 1818 | 1801–1834 | 1,976 |
-| 2 | = | `gpt-6-astra-max` | openai | Proprietary | 1789 | 1779–1800 | 5,918 |
-| 3 | 🆕 | `gpt-6.1-sol-max` | openai | Proprietary | 1759 | 1740–1778 | 1,264 |
-| 4 | ▼1 | `claude-fable-5.1-max` | anthropic | Proprietary | 1751 | 1741–1760 | 6,137 |
-| 5 | 🆕 | `claude-sonnet-5.5-high` | anthropic | Proprietary | 1709 | 1693–1724 | 1,810 |
-| 6 | ▼2 | `claude-opus-5-max` | anthropic | Proprietary | 1694 | 1687–1700 | 16,747 |
-| 7 | ▼2 | `gpt-6-sol-max` | openai | Proprietary | 1689 | 1678–1701 | 3,197 |
-| 8 | 🆕 | `gemini-4-argon-high` | google | Proprietary | 1679 | 1665–1693 | 2,184 |
-| 9 | ▼3 | `qwen3.8-max` | alibaba | Proprietary | 1671 | 1659–1683 | 3,453 |
-| 10 | ▼2 | `qwen3.8-max-0902` | alibaba | Proprietary | 1670 | 1662–1678 | 8,912 |
+| 1 | = | `claude-opus-5.5-max` | anthropic | Proprietary | 1815 | 1799–1831 | 2,062 |
+| 2 | = | `gpt-6-astra-max` | openai | Proprietary | 1788 | 1777–1798 | 6,123 |
+| 3 | 🆕 | `claude-sonnet-5.5-xhigh` | anthropic | Proprietary | 1786 | 1768–1804 | 1,531 |
+| 4 | 🆕 | `gpt-6.1-sol-max` | openai | Proprietary | 1758 | 1741–1775 | 1,620 |
+| 5 | ▼2 | `claude-fable-5.1-max` | anthropic | Proprietary | 1749 | 1740–1759 | 6,318 |
+| 6 | 🆕 | `claude-sonnet-5.5-high` | anthropic | Proprietary | 1715 | 1702–1729 | 2,527 |
+| 7 | ▼3 | `claude-opus-5-max` | anthropic | Proprietary | 1695 | 1688–1702 | 16,954 |
+| 8 | ▼3 | `gpt-6-sol-max` | openai | Proprietary | 1689 | 1678–1700 | 3,411 |
+| 9 | 🆕 | `gemini-4-argon-high` | google | Proprietary | 1680 | 1666–1693 | 2,422 |
+| 10 | ▼4 | `qwen3.8-max` | alibaba | Proprietary | 1671 | 1659–1683 | 3,454 |
 
-Best open-weight model: `kimi-k3-max` (moonshot, Kimi K3 license) at #12 with 1658.
+Best open-weight model: `kimi-k3-max` (moonshot, Kimi K3 license) at #13 with 1658.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="charts/webdev-frontier-dark.png"><img alt="WebDev Arena frontier race chart" src="charts/webdev-frontier.png"></picture>
 
