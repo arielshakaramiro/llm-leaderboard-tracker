@@ -10,26 +10,26 @@ Two questions it answers at a glance:
 ## Latest standings
 
 <!-- LEADERBOARD_START -->
-_Tracked history: Text: 164 snapshots · WebDev: 93 snapshots · Vision: 112 snapshots_
+_Tracked history: Text: 165 snapshots · WebDev: 93 snapshots · Vision: 113 snapshots_
 
 ### Text Arena
 
-Leaderboard published 2026-09-30 · change vs 2026-09-13.
+Leaderboard published 2026-10-02 · change vs 2026-09-25.
 
 | # | Δ | Model | Lab | License | Rating | 95% CI | Votes |
 |--:|:-:|-------|-----|---------|-------:|:------:|------:|
-| 1 | 🆕 | `gemini-4-argon-high` | google | Proprietary | 1533 | 1524–1542 | 4,942 |
-| 2 | 🆕 | `claude-opus-5.5-high` | anthropic | Proprietary | 1512 | 1502–1522 | 3,932 |
-| 3 | ▼2 | `claude-fable-5.1-max` | anthropic | Proprietary | 1511 | 1504–1517 | 11,241 |
-| 4 | ▼2 | `claude-opus-5-max` | anthropic | Proprietary | 1506 | 1502–1512 | 28,351 |
-| 5 | ▼1 | `claude-opus-4-6-high` | anthropic | Proprietary | 1504 | 1500–1507 | 77,193 |
-| 6 | ▼3 | `claude-opus-5-high` | anthropic | Proprietary | 1503 | 1500–1507 | 58,380 |
-| 7 | ▼2 | `claude-opus-4-6` | anthropic | Proprietary | 1498 | 1494–1501 | 81,769 |
-| 8 | ▼2 | `gemini-3.8-flash-high` | google | Proprietary | 1496 | 1491–1501 | 24,828 |
-| 9 | 🆕 | `claude-fable-5-high` | anthropic | Proprietary | 1492 | 1488–1497 | 37,900 |
-| 10 | 🆕 | `mimo-v2.6-pro` | xiaomi | Open (MIT) | 1490 | 1481–1500 | 4,074 |
+| 1 | 🆕 | `gemini-4-argon-high` | google | Proprietary | 1534 | 1525–1542 | 4,932 |
+| 2 | ▼1 | `claude-opus-5.5-high` | anthropic | Proprietary | 1512 | 1503–1521 | 4,552 |
+| 3 | ▼1 | `claude-fable-5.1-max` | anthropic | Proprietary | 1511 | 1504–1517 | 11,800 |
+| 4 | ▼1 | `claude-opus-5-max` | anthropic | Proprietary | 1507 | 1502–1512 | 28,937 |
+| 5 | ▼1 | `claude-opus-4-6-high` | anthropic | Proprietary | 1503 | 1500–1507 | 77,636 |
+| 6 | ▼1 | `claude-opus-5-high` | anthropic | Proprietary | 1502 | 1498–1506 | 59,482 |
+| 7 | ▼1 | `claude-opus-4-6` | anthropic | Proprietary | 1498 | 1494–1501 | 82,189 |
+| 8 | ▼1 | `gemini-3.8-flash-high` | google | Proprietary | 1497 | 1492–1502 | 26,298 |
+| 9 | ▼1 | `claude-fable-5-high` | anthropic | Proprietary | 1492 | 1487–1496 | 38,387 |
+| 10 | ▼1 | `mimo-v2.6-pro` | xiaomi | Open (MIT) | 1491 | 1482–1500 | 4,056 |
 
-Best open-weight model: `mimo-v2.6-pro` (xiaomi, MIT) at #10 with 1490.
+Best open-weight model: `mimo-v2.6-pro` (xiaomi, MIT) at #10 with 1491.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="charts/text-frontier-dark.png"><img alt="Text Arena frontier race chart" src="charts/text-frontier.png"></picture>
 
@@ -60,22 +60,22 @@ Best open-weight model: `kimi-k3-max` (moonshot, Kimi K3 license) at #13 with 16
 
 ### Vision Arena
 
-Leaderboard published 2026-09-28 · change vs 2026-09-13.
+Leaderboard published 2026-10-02 · change vs 2026-09-13.
 
 | # | Δ | Model | Lab | License | Rating | 95% CI | Votes |
 |--:|:-:|-------|-----|---------|-------:|:------:|------:|
-| 1 | 🆕 | `claude-fable-5-high` | anthropic | Proprietary | 1326 | 1319–1334 | 13,483 |
-| 2 | ▲1 | `claude-opus-5-high` | anthropic | Proprietary | 1321 | 1314–1328 | 15,304 |
-| 3 | ▼1 | `claude-fable-5.1-max` | anthropic | Proprietary | 1319 | 1309–1329 | 4,050 |
-| 4 | = | `claude-opus-4-7` | anthropic | Proprietary | 1317 | 1310–1324 | 22,948 |
-| 5 | ▲2 | `claude-opus-4-6-high` | anthropic | Proprietary | 1316 | 1309–1322 | 22,350 |
-| 6 | = | `qwen3.8-max` | alibaba | Proprietary | 1314 | 1306–1321 | 10,086 |
-| 7 | 🆕 | `gemini-3.7-flash-high` | google | Proprietary | 1314 | 1303–1325 | 3,425 |
-| 8 | ▼3 | `claude-opus-4-7-high` | anthropic | Proprietary | 1314 | 1307–1320 | 22,559 |
-| 9 | = | `claude-opus-4-6` | anthropic | Proprietary | 1313 | 1307–1319 | 26,904 |
-| 10 | 🆕 | `gemini-3.8-flash-high` | google | Proprietary | 1312 | 1300–1324 | 2,711 |
+| 1 | 🆕 | `claude-fable-5-high` | anthropic | Proprietary | 1325 | 1318–1332 | 13,709 |
+| 2 | ▲1 | `claude-opus-5-high` | anthropic | Proprietary | 1321 | 1314–1328 | 15,900 |
+| 3 | ▼1 | `claude-fable-5.1-max` | anthropic | Proprietary | 1320 | 1310–1330 | 4,312 |
+| 4 | = | `claude-opus-4-7` | anthropic | Proprietary | 1316 | 1310–1323 | 23,169 |
+| 5 | 🆕 | `gemini-3.8-flash-high` | google | Proprietary | 1316 | 1304–1327 | 3,086 |
+| 6 | ▲1 | `claude-opus-4-6-high` | anthropic | Proprietary | 1316 | 1309–1322 | 22,328 |
+| 7 | 🆕 | `gemini-3.7-flash-high` | google | Proprietary | 1315 | 1305–1325 | 3,814 |
+| 8 | ▼2 | `qwen3.8-max` | alibaba | Proprietary | 1314 | 1307–1322 | 10,040 |
+| 9 | = | `claude-opus-4-6` | anthropic | Proprietary | 1313 | 1307–1319 | 26,869 |
+| 10 | ▼5 | `claude-opus-4-7-high` | anthropic | Proprietary | 1313 | 1306–1320 | 22,755 |
 
-Best open-weight model: `glm-5.3-flash` (zai, MIT) at #17 with 1304.
+Best open-weight model: `glm-5.3-flash` (zai, MIT) at #18 with 1301.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="charts/vision-frontier-dark.png"><img alt="Vision Arena frontier race chart" src="charts/vision-frontier.png"></picture>
 
