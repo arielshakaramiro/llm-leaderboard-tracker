@@ -7834,3 +7834,450 @@ date,model,organization,license,rating,rating_lower,rating_upper,votes,rank
 2026-10-18,Grok Code Fast 1,xai,Proprietary,1166.4,1138.2,1194.7,789,143
 2026-10-18,Grok 4 Fast (Reasoning),xai,Proprietary,1159.7,1132.3,1187.0,743,144
 2026-10-18,Devstral Medium (2507),mistral,Proprietary,1071.6,1041.0,1102.2,842,145
+2026-10-19,Claude Opus 5.5 (Max),anthropic,Proprietary,1807.3,1793.5,1821.1,2925,1
+2026-10-19,GPT-6 Astra (Max),openai,Proprietary,1773.8,1763.6,1784.0,6169,2
+2026-10-19,Claude Sonnet 5.5 (xHigh),anthropic,Proprietary,1768.3,1755.5,1781.1,3428,3
+2026-10-19,GPT-6.1 Sol (Max),openai,Proprietary,1753.1,1740.1,1766.1,3072,4
+2026-10-19,Claude Fable 5.1 (Max),anthropic,Proprietary,1742.7,1733.8,1751.6,7744,5
+2026-10-19,Muse Wonder Full (Max),meta,Proprietary,1726.0,1709.9,1742.1,1639,6
+2026-10-19,Claude Sonnet 5.5 (High),anthropic,Proprietary,1710.0,1700.1,1719.9,5158,7
+2026-10-19,Claude Opus 5 (Max),anthropic,Proprietary,1688.9,1682.7,1695.1,18555,8
+2026-10-19,GPT-6 Sol (Max),openai,Proprietary,1683.1,1672.7,1693.4,4608,9
+2026-10-19,Gemini 4 Argon (High),google,Proprietary,1678.3,1662.7,1693.9,1728,10
+2026-10-19,Qwen3.8-Max (0902),alibaba,Proprietary,1674.3,1667.3,1681.3,14421,11
+2026-10-19,Qwen3.8-Max,alibaba,Proprietary,1672.2,1660.2,1684.3,3428,12
+2026-10-19,DeepSeek-V4.1-Flash-20261017 (Max),deepseek,MIT,1664.3,1650.0,1678.7,2008,13
+2026-10-19,Muse Spark 1.3 (Max),meta,Proprietary,1659.3,1651.4,1667.1,9407,14
+2026-10-19,Claude Opus 5 (High),anthropic,Proprietary,1658.6,1653.1,1664.0,24739,15
+2026-10-19,Kimi K3 (Max),moonshot,Kimi K3 license,1655.3,1649.3,1661.3,19592,16
+2026-10-19,Muse Wonder (Max),meta,Proprietary,1651.5,1637.8,1665.2,2289,17
+2026-10-19,Grok 4.7 (xHigh),xai,Proprietary,1637.0,1627.4,1646.5,5303,18
+2026-10-19,MiMo-V2.6-Flash,xiaomi,MIT,1633.6,1624.2,1643.1,5293,19
+2026-10-19,Hy4 preview,tencent,Apache 2.0,1631.0,1621.3,1640.6,4798,20
+2026-10-19,Qwen3.8-Flash-Next,alibaba,qwen-community-1.0,1628.6,1620.7,1636.6,8382,21
+2026-10-19,MiMo-V2.6-Pro,xiaomi,MIT,1625.0,1615.4,1634.6,5041,22
+2026-10-19,Claude Fable 5 (High),anthropic,Proprietary,1624.3,1618.1,1630.4,15899,23
+2026-10-19,Muse Spark 1.3 (xHigh),meta,Proprietary,1621.4,1613.6,1629.2,8767,24
+2026-10-19,GLM-5.3 (Max),zai,MIT,1621.2,1613.6,1628.7,9828,25
+2026-10-19,DeepSeek-V4.1-Flash-20260910 (Max),deepseek,MIT,1618.3,1607.4,1629.3,3528,26
+2026-10-19,Grok 4.6 (High),xai,Proprietary,1616.6,1609.3,1624.0,10483,27
+2026-10-19,"GPT-5.6 Sol (xHigh, Codex Harness)",openai,Proprietary,1615.6,1609.7,1621.5,17786,28
+2026-10-19,GLM-5.3-Flash,zai,MIT,1606.8,1600.3,1613.4,18264,29
+2026-10-19,GLM-5.2 (Max),zai,MIT,1604.2,1598.2,1610.3,16657,30
+2026-10-19,Qwen3.8-27B,alibaba,Apache 2.0,1592.8,1586.2,1599.3,16385,31
+2026-10-19,Gemini 3.7 Flash (High),google,Proprietary,1590.8,1584.0,1597.6,12636,32
+2026-10-19,MiniMax-M3.1-Flash,minimax,MiniMax Community License,1587.5,1573.2,1601.7,1853,33
+2026-10-19,Claude Haiku 5.5 (High),anthropic,Proprietary,1586.2,1575.2,1597.1,3514,34
+2026-10-19,Gemini 3.8 Flash (High),google,Proprietary,1584.7,1577.3,1592.1,10851,35
+2026-10-19,"DeepSeek-V4-Pro (High, 20260813)",deepseek,MIT,1582.4,1572.9,1591.8,4714,36
+2026-10-19,DeepSeek-V4-Flash (High),deepseek,MIT,1582.1,1572.8,1591.4,4947,37
+2026-10-19,GPT-6 Luna (Max),openai,Proprietary,1577.8,1571.7,1583.9,21622,38
+2026-10-19,Step 5 Preview (High),stepfun,Proprietary,1566.8,1557.1,1576.6,4728,39
+2026-10-19,Claude Opus 4.7 (High),anthropic,Proprietary,1557.9,1552.1,1563.6,17910,40
+2026-10-19,Claude Opus 4.8 (High),anthropic,Proprietary,1555.9,1550.1,1561.6,18493,41
+2026-10-19,Claude Opus 4.7,anthropic,Proprietary,1555.7,1550.0,1561.3,18230,42
+2026-10-19,Grok 4.5,xai,Proprietary,1553.0,1546.3,1559.6,11082,43
+2026-10-19,Claude Opus 4.6 (High),anthropic,Proprietary,1546.6,1541.1,1552.0,19383,44
+2026-10-19,Mistral Large 4,mistral,Proprietary,1542.5,1530.2,1554.8,2832,45
+2026-10-19,Muse Spark 1.1,meta,Proprietary,1542.4,1534.8,1550.0,7985,46
+2026-10-19,Claude Sonnet 5 (High),anthropic,Proprietary,1540.4,1534.5,1546.4,15755,47
+2026-10-19,Gemini 3.6 Flash (High),google,Proprietary,1538.1,1530.6,1545.5,8762,48
+2026-10-19,Claude Opus 4.6,anthropic,Proprietary,1537.4,1532.1,1542.8,20644,49
+2026-10-19,Claude Opus 4.8,anthropic,Proprietary,1535.8,1530.1,1541.5,17398,50
+2026-10-19,Muse Spark 1.2 (xHigh),meta,Proprietary,1533.8,1520.2,1547.5,2163,51
+2026-10-19,Muse Spark Open (Max),meta,muse-model-license,1528.1,1511.1,1545.1,1380,52
+2026-10-19,Claude Sonnet 4.6,anthropic,Proprietary,1523.0,1517.8,1528.1,22822,53
+2026-10-19,"GPT-5.6 Terra (xHigh, Codex Harness)",openai,Proprietary,1521.7,1515.4,1528.0,13919,54
+2026-10-19,Seed2.1 Pro Preview,bytedance,Proprietary,1520.2,1514.2,1526.2,15123,55
+2026-10-19,"GPT-5.6 Luna (xHigh, Codex Harness)",openai,Proprietary,1518.3,1511.9,1524.7,12501,56
+2026-10-19,Qwen3.7-Max (20260517),alibaba,Proprietary,1515.5,1508.1,1522.9,8887,57
+2026-10-19,"GPT-5.5 (xHigh, Codex Harness)",openai,Proprietary,1512.6,1506.6,1518.5,15612,58
+2026-10-19,Kimi K2.6,moonshot,Modified MIT,1509.5,1502.2,1516.7,10166,59
+2026-10-19,GLM-5.1,zai,MIT,1508.1,1501.4,1514.9,10703,60
+2026-10-19,Hy3,tencent,Apache 2.0,1507.1,1498.7,1515.5,6256,61
+2026-10-19,Gemini 3.5 Flash (High),google,Proprietary,1499.4,1492.2,1506.7,9382,62
+2026-10-19,"Claude Opus 4.5 (High, 32K, 20251101)",anthropic,Proprietary,1493.7,1485.5,1502.0,11029,63
+2026-10-19,Gemini 3.5 Flash (Medium),google,Proprietary,1491.0,1484.4,1497.7,12137,64
+2026-10-19,"GPT-5.5 (High, Codex Harness)",openai,Proprietary,1486.9,1481.0,1492.8,17939,65
+2026-10-19,MiniMax-M3,minimax,MiniMax Community License,1482.4,1476.9,1487.9,19803,66
+2026-10-19,Qwen3.6-Max-Preview,alibaba,Proprietary,1482.3,1469.8,1494.9,2708,67
+2026-10-19,MiMo-V2.5-Pro,xiaomi,MIT,1480.3,1475.0,1485.5,22493,68
+2026-10-19,Kimi K2.7 Code,moonshot,Modified MIT,1473.6,1464.2,1483.0,4962,69
+2026-10-19,Claude Opus 4.5 (20251101),anthropic,Proprietary,1469.4,1462.1,1476.6,13418,70
+2026-10-19,DeepSeek-V4-Pro Preview (High),deepseek,MIT,1464.6,1458.3,1470.9,13161,71
+2026-10-19,"GPT-5.4 (High, Codex Harness)",openai,Proprietary,1463.9,1445.0,1482.8,1350,72
+2026-10-19,Qwen3.6-Plus,alibaba,Proprietary,1461.5,1455.9,1467.1,18587,73
+2026-10-19,GPT-5.5 (Codex Harness),openai,Proprietary,1456.1,1450.2,1461.9,15860,74
+2026-10-19,DeepSeek-V4-Pro,deepseek,MIT,1447.3,1441.0,1453.7,13979,75
+2026-10-19,Gemini 3.1 Pro Preview,google,Proprietary,1446.9,1441.9,1452.0,24199,76
+2026-10-19,"GPT-5.4 (Medium, Codex Harness)",openai,Proprietary,1444.2,1425.9,1462.4,1380,77
+2026-10-19,Gemini 3 Pro,google,Proprietary,1440.3,1431.8,1448.7,14092,78
+2026-10-19,Gemini 3 Flash,google,Proprietary,1440.0,1431.4,1448.6,10889,79
+2026-10-19,MiMo-V2.5,xiaomi,MIT,1438.3,1432.3,1444.3,14910,80
+2026-10-19,beam-1.0-501b-a23b,reflection,Apache 2.0,1436.9,1424.1,1449.6,2930,81
+2026-10-19,Kimi K2.5 (Thinking),moonshot,Modified MIT,1436.6,1431.4,1441.8,20091,82
+2026-10-19,GLM-5,zai,MIT,1435.4,1427.2,1443.5,7496,83
+2026-10-19,GLM-4.7,zai,MIT,1435.3,1423.3,1447.4,4007,84
+2026-10-19,Gemini 3.5 Flash-Lite,google,Proprietary,1434.9,1394.1,1475.7,238,85
+2026-10-19,MiMo-V2-Pro,xiaomi,Proprietary,1434.0,1425.8,1442.1,7249,86
+2026-10-19,DeepSeek-V4-Flash Preview (High),deepseek,MIT,1431.0,1424.0,1437.9,10105,87
+2026-10-19,GPT-5 (Medium),openai,Proprietary,1417.6,1402.0,1433.1,3092,88
+2026-10-19,GPT-5.2,openai,Proprietary,1416.8,1394.2,1439.4,1081,89
+2026-10-19,Inkling,thinky,Apache 2.0,1413.9,1407.8,1420.1,15778,90
+2026-10-19,Inkling-Small,thinky,Apache 2.0,1409.4,1400.3,1418.5,5323,91
+2026-10-19,GPT-5.3-Codex (Codex Harness),openai,Proprietary,1406.6,1392.9,1420.2,2641,92
+2026-10-19,Kimi K2.5 (Instant),moonshot,Modified MIT,1405.5,1393.4,1417.5,3264,93
+2026-10-19,NVIDIA-Nemotron-3.5-Super-VL-120B-A12B (NVFP4),nvidia,OpenMDW-1.1,1403.8,1387.5,1420.1,1843,94
+2026-10-19,GLM-5V-Turbo,zai,Proprietary,1401.8,1388.6,1415.0,2403,95
+2026-10-19,GPT-5.4,openai,Proprietary,1400.5,1390.2,1410.8,4130,96
+2026-10-19,Qwen3.5-397B-A17B,alibaba,Apache 2.0,1400.4,1395.3,1405.5,21156,97
+2026-10-19,MiniMax-M2.7,minimax,Modified MIT,1398.5,1392.8,1404.3,15972,98
+2026-10-19,GPT-5.4 mini (High),openai,Proprietary,1397.4,1390.9,1404.0,11942,99
+2026-10-19,GPT-5.1 (Medium),openai,Proprietary,1396.0,1384.4,1407.5,4910,100
+2026-10-19,"Claude Sonnet 4.5 (High, 32K, 20250929)",anthropic,Proprietary,1393.7,1386.0,1401.4,13250,101
+2026-10-19,Claude Opus 4.1 (20250805),anthropic,Proprietary,1390.3,1379.6,1401.0,6927,102
+2026-10-19,MiniMax-M2.5,minimax,Modified MIT,1386.3,1378.0,1394.7,7621,103
+2026-10-19,Claude Sonnet 4.5 (20250929),anthropic,Proprietary,1385.1,1377.9,1392.4,15722,104
+2026-10-19,Gemini 3 Flash (Minimal),google,Proprietary,1384.8,1379.6,1390.1,22154,105
+2026-10-19,MiniMax-M2.1 Preview,minimax,MIT,1384.3,1374.8,1393.8,7638,106
+2026-10-19,"Grok 4.20 Beta (Reasoning, 0309)",xai,Proprietary,1375.6,1369.5,1381.6,15448,107
+2026-10-19,GPT-5.3-Codex (Codex Harness),openai,Proprietary,1371.2,1359.8,1382.5,3656,108
+2026-10-19,Solar Pro 4,upstage,Proprietary,1370.7,1360.3,1381.0,4655,109
+2026-10-19,Gemma 4 31B,google,Apache 2.0,1367.4,1361.2,1373.7,14666,110
+2026-10-19,DeepSeek-V3.2 (Thinking),deepseek,MIT,1362.4,1353.3,1371.5,6914,111
+2026-10-19,Qwen3.5-122B-A10B,alibaba,Apache 2.0,1360.6,1352.9,1368.2,8235,112
+2026-10-19,Gemma 4 26B A4B,google,Apache 2.0,1359.6,1342.6,1376.5,1501,113
+2026-10-19,Qwen3.5-27B,alibaba,Apache 2.0,1358.3,1350.2,1366.3,7782,114
+2026-10-19,Grok 4.3,xai,Proprietary,1357.7,1351.4,1363.9,14954,115
+2026-10-19,Hy3 preview,tencent,tencent-hunyuan-community,1356.9,1339.5,1374.3,1448,116
+2026-10-19,Muse Glimmer,meta,Apache-2.0,1354.9,1339.3,1370.6,1643,117
+2026-10-19,Laguna M.1,poolside,Apache 2.0,1349.9,1340.6,1359.1,5395,118
+2026-10-19,GPT-5.1,openai,Proprietary,1341.7,1333.2,1350.1,10711,119
+2026-10-19,GLM-4.6,zai,MIT,1341.1,1330.3,1351.9,6781,120
+2026-10-19,GPT-5.2-Codex,openai,Proprietary,1338.8,1329.9,1347.7,6718,121
+2026-10-19,GPT-5.1-Codex,openai,Proprietary,1337.2,1325.7,1348.8,5007,122
+2026-10-19,Claude Haiku 4.5 (20251001),anthropic,Proprietary,1330.4,1325.4,1335.3,29061,123
+2026-10-19,MiMo-V2-Flash (Non-Thinking),xiaomi,MIT,1330.3,1320.6,1340.1,5689,124
+2026-10-19,DeepSeek-V3.2,deepseek,MIT,1326.0,1318.0,1334.0,9382,125
+2026-10-19,Kimi K2 Thinking Turbo,moonshot,Modified MIT,1322.1,1314.7,1329.6,13092,126
+2026-10-19,Laguna XS.2,poolside,Apache 2.0,1302.4,1291.7,1313.1,4228,127
+2026-10-19,MiniMax-M2,minimax,Apache 2.0,1297.1,1286.1,1308.0,6714,128
+2026-10-19,MiMo-V2-Flash (Thinking),xiaomi,MIT,1292.7,1276.2,1309.1,1685,129
+2026-10-19,Qwen3-Coder-480B-A35B-Instruct,alibaba,Apache 2.0,1274.7,1266.9,1282.5,12709,130
+2026-10-19,DeepSeek-V3.2-Exp,deepseek,MIT,1271.7,1258.2,1285.2,3969,131
+2026-10-19,Mistral Medium 3.5,mistral,Modified MIT,1264.1,1249.3,1278.9,2317,132
+2026-10-19,Gemini 3.1 Flash-Lite Preview,google,Proprietary,1256.6,1249.7,1263.4,14390,133
+2026-10-19,KAT-Coder-Pro V1,,Proprietary,1255.9,1236.4,1275.4,1504,134
+2026-10-19,Qwen3.5-35B-A3B,alibaba,Apache 2.0,1254.1,1236.6,1271.5,1617,135
+2026-10-19,GPT-5.1-Codex-Mini,openai,Proprietary,1243.7,1221.6,1265.7,1154,136
+2026-10-19,Qwen3.5-Flash,alibaba,Proprietary,1243.7,1224.0,1263.3,1328,137
+2026-10-19,Grok 4.1 Fast (Reasoning),xai,Proprietary,1242.0,1230.9,1253.1,5489,138
+2026-10-19,Trinity Large Thinking,,Apache 2.0,1237.8,1217.8,1257.8,1361,139
+2026-10-19,Mistral Large 3,mistral,Apache 2.0,1230.5,1205.0,1256.0,839,140
+2026-10-19,Gemini 2.5 Pro,google,Proprietary,1226.3,1210.4,1242.2,2730,141
+2026-10-19,Grok 4.1 (Thinking),xai,Proprietary,1214.6,1189.7,1239.5,961,142
+2026-10-19,Devstral 2,mistral,Modified MIT,1196.5,1175.8,1217.2,1182,143
+2026-10-19,Granite 4.1 8B,ibm,Apache 2.0,1192.9,1174.4,1211.4,1768,144
+2026-10-19,Mercury 2,inception-ai,Proprietary,1170.5,1146.0,1195.1,954,145
+2026-10-19,Grok Code Fast 1,xai,Proprietary,1166.4,1138.1,1194.6,789,146
+2026-10-19,Grok 4 Fast (Reasoning),xai,Proprietary,1159.1,1131.6,1186.5,742,147
+2026-10-19,Devstral Medium (2507),mistral,Proprietary,1071.5,1040.9,1102.1,842,148
+2026-10-22,Claude Opus 5.5 (Max),anthropic,Proprietary,1806.9,1793.5,1820.3,3119,1
+2026-10-22,GPT-6 Astra (Max),openai,Proprietary,1774.7,1764.8,1784.7,6511,2
+2026-10-22,Claude Sonnet 5.5 (xHigh),anthropic,Proprietary,1767.5,1755.3,1779.7,3776,3
+2026-10-22,GPT-6.1 Sol (Max),openai,Proprietary,1749.0,1736.6,1761.3,3414,4
+2026-10-22,Claude Fable 5.1 (Max),anthropic,Proprietary,1743.4,1734.6,1752.1,8059,5
+2026-10-22,Muse Wonder Full (Max),meta,Proprietary,1725.9,1712.1,1739.8,2253,6
+2026-10-22,Claude Sonnet 5.5 (High),anthropic,Proprietary,1706.4,1696.7,1716.0,5562,7
+2026-10-22,Claude Opus 5 (Max),anthropic,Proprietary,1690.2,1684.1,1696.4,18924,8
+2026-10-22,GPT-6 Sol (Max),openai,Proprietary,1681.6,1671.6,1691.6,4961,9
+2026-10-22,Qwen3.8-Max (0902),alibaba,Proprietary,1673.2,1666.3,1680.1,15527,10
+2026-10-22,Gemini 4 Argon (High),google,Proprietary,1672.7,1660.0,1685.4,2680,11
+2026-10-22,Qwen3.8-Max,alibaba,Proprietary,1672.5,1660.4,1684.6,3430,12
+2026-10-22,DeepSeek-V4.1-Flash-20261017 (Max),deepseek,MIT,1664.0,1650.8,1677.2,2425,13
+2026-10-22,Claude Opus 5 (High),anthropic,Proprietary,1658.5,1653.1,1663.9,25479,14
+2026-10-22,Muse Spark 1.3 (Max),meta,Proprietary,1657.4,1649.7,1665.1,9848,15
+2026-10-22,Kimi K3 (Max),moonshot,Kimi K3 license,1654.7,1648.8,1660.7,20258,16
+2026-10-22,Muse Wonder (Max),meta,Proprietary,1651.1,1638.3,1663.9,2675,17
+2026-10-22,Grok 4.7 (xHigh),xai,Proprietary,1636.6,1627.3,1645.9,5676,18
+2026-10-22,MiMo-V2.6-Flash,xiaomi,MIT,1634.0,1624.8,1643.2,5681,19
+2026-10-22,Hy4 preview,tencent,Apache 2.0,1631.2,1621.6,1640.9,4785,20
+2026-10-22,Qwen3.8-Flash-Next,alibaba,qwen-community-1.0,1628.0,1620.2,1635.9,8797,21
+2026-10-22,MiMo-V2.6-Pro,xiaomi,MIT,1625.4,1616.2,1634.6,5609,22
+2026-10-22,Claude Fable 5 (High),anthropic,Proprietary,1624.1,1618.0,1630.1,16287,23
+2026-10-22,GLM-5.3 (Max),zai,MIT,1622.7,1615.3,1630.2,10266,24
+2026-10-22,Muse Spark 1.3 (xHigh),meta,Proprietary,1619.7,1612.0,1627.4,9233,25
+2026-10-22,DeepSeek-V4.1-Flash-20260910 (Max),deepseek,MIT,1618.4,1607.4,1629.3,3526,26
+2026-10-22,Grok 4.6 (High),xai,Proprietary,1617.1,1609.9,1624.3,10948,27
+2026-10-22,"GPT-5.6 Sol (xHigh, Codex Harness)",openai,Proprietary,1615.0,1609.2,1620.9,18172,28
+2026-10-22,GLM-5.3-Flash,zai,MIT,1607.8,1601.3,1614.2,19610,29
+2026-10-22,GLM-5.2 (Max),zai,MIT,1604.3,1598.3,1610.3,17047,30
+2026-10-22,Qwen3.8-27B,alibaba,Apache 2.0,1591.3,1584.9,1597.8,17106,31
+2026-10-22,Gemini 3.7 Flash (High),google,Proprietary,1591.1,1584.5,1597.8,13227,32
+2026-10-22,MiniMax-M3.1-Flash,minimax,MiniMax Community License,1589.7,1576.4,1603.1,2164,33
+2026-10-22,Gemini 3.8 Flash (High),google,Proprietary,1585.3,1578.0,1592.5,11346,34
+2026-10-22,Claude Haiku 5.5 (High),anthropic,Proprietary,1584.8,1574.3,1595.3,3860,35
+2026-10-22,"DeepSeek-V4-Pro (High, 20260813)",deepseek,MIT,1582.2,1572.7,1591.7,4714,36
+2026-10-22,DeepSeek-V4-Flash (High),deepseek,MIT,1582.0,1572.7,1591.3,4948,37
+2026-10-22,GPT-6 Luna (Max),openai,Proprietary,1578.4,1572.4,1584.3,24237,38
+2026-10-22,Step 5 Preview (High),stepfun,Proprietary,1568.1,1558.6,1577.6,5135,39
+2026-10-22,Claude Opus 4.7 (High),anthropic,Proprietary,1557.8,1552.0,1563.5,17924,40
+2026-10-22,Claude Opus 4.8 (High),anthropic,Proprietary,1555.9,1550.1,1561.6,18480,41
+2026-10-22,Claude Opus 4.7,anthropic,Proprietary,1555.4,1549.8,1561.0,18244,42
+2026-10-22,Grok 4.5,xai,Proprietary,1552.8,1546.1,1559.5,11076,43
+2026-10-22,Claude Opus 4.6 (High),anthropic,Proprietary,1546.3,1540.8,1551.8,19397,44
+2026-10-22,Mistral Large 4,mistral,Proprietary,1542.7,1531.1,1554.4,3216,45
+2026-10-22,Muse Spark 1.1,meta,Proprietary,1542.6,1535.0,1550.2,7973,46
+2026-10-22,Claude Sonnet 5 (High),anthropic,Proprietary,1540.6,1534.7,1546.5,16126,47
+2026-10-22,Gemini 3.6 Flash (High),google,Proprietary,1538.0,1530.5,1545.5,8752,48
+2026-10-22,Claude Opus 4.6,anthropic,Proprietary,1537.3,1531.9,1542.6,20648,49
+2026-10-22,Claude Opus 4.8,anthropic,Proprietary,1535.6,1529.9,1541.3,17380,50
+2026-10-22,Muse Spark 1.2 (xHigh),meta,Proprietary,1533.5,1519.9,1547.2,2162,51
+2026-10-22,Muse Spark Open (Max),meta,muse-model-license,1526.6,1510.1,1543.2,1470,52
+2026-10-22,Claude Sonnet 4.6,anthropic,Proprietary,1522.8,1517.7,1528.0,22850,53
+2026-10-22,"GPT-5.6 Terra (xHigh, Codex Harness)",openai,Proprietary,1520.8,1514.5,1527.0,14378,54
+2026-10-22,Seed2.1 Pro Preview,bytedance,Proprietary,1520.3,1514.3,1526.2,15456,55
+2026-10-22,"GPT-5.6 Luna (xHigh, Codex Harness)",openai,Proprietary,1518.8,1512.4,1525.2,12570,56
+2026-10-22,Qwen3.7-Max (20260517),alibaba,Proprietary,1515.4,1508.0,1522.7,8888,57
+2026-10-22,"GPT-5.5 (xHigh, Codex Harness)",openai,Proprietary,1512.6,1506.6,1518.6,15618,58
+2026-10-22,Kimi K2.6,moonshot,Modified MIT,1509.4,1502.2,1516.7,10170,59
+2026-10-22,GLM-5.1,zai,MIT,1508.0,1501.2,1514.8,10706,60
+2026-10-22,Hy3,tencent,Apache 2.0,1506.0,1497.7,1514.3,6403,61
+2026-10-22,Gemini 3.5 Flash (High),google,Proprietary,1499.2,1492.0,1506.5,9382,62
+2026-10-22,"Claude Opus 4.5 (High, 32K, 20251101)",anthropic,Proprietary,1493.8,1485.5,1502.1,11032,63
+2026-10-22,Gemini 3.5 Flash (Medium),google,Proprietary,1491.0,1484.3,1497.6,12131,64
+2026-10-22,"GPT-5.5 (High, Codex Harness)",openai,Proprietary,1486.9,1481.0,1492.8,17939,65
+2026-10-22,MiniMax-M3,minimax,MiniMax Community License,1482.4,1476.9,1487.9,20211,66
+2026-10-22,Qwen3.6-Max-Preview,alibaba,Proprietary,1482.1,1469.6,1494.6,2716,67
+2026-10-22,MiMo-V2.5-Pro,xiaomi,MIT,1480.5,1475.2,1485.7,22773,68
+2026-10-22,Spark-X2.6,synlan,Proprietary,1478.1,1457.1,1499.0,987,69
+2026-10-22,Kimi K2.7 Code,moonshot,Modified MIT,1473.5,1464.1,1482.9,4960,70
+2026-10-22,Claude Opus 4.5 (20251101),anthropic,Proprietary,1469.5,1462.3,1476.7,13424,71
+2026-10-22,DeepSeek-V4-Pro Preview (High),deepseek,MIT,1464.4,1458.1,1470.7,13164,72
+2026-10-22,"GPT-5.4 (High, Codex Harness)",openai,Proprietary,1463.4,1444.5,1482.2,1350,73
+2026-10-22,Qwen3.6-Plus,alibaba,Proprietary,1461.6,1456.0,1467.2,18586,74
+2026-10-22,GPT-5.5 (Codex Harness),openai,Proprietary,1456.3,1450.4,1462.1,15869,75
+2026-10-22,DeepSeek-V4-Pro,deepseek,MIT,1447.1,1440.7,1453.4,13974,76
+2026-10-22,Gemini 3.1 Pro Preview,google,Proprietary,1446.8,1441.7,1451.8,24233,77
+2026-10-22,"GPT-5.4 (Medium, Codex Harness)",openai,Proprietary,1443.9,1425.6,1462.1,1376,78
+2026-10-22,Gemini 3 Pro,google,Proprietary,1440.4,1431.9,1448.8,14091,79
+2026-10-22,Gemini 3 Flash,google,Proprietary,1440.1,1431.5,1448.7,10889,80
+2026-10-22,MiMo-V2.5,xiaomi,MIT,1438.3,1432.3,1444.3,14907,81
+2026-10-22,Kimi K2.5 (Thinking),moonshot,Modified MIT,1436.6,1431.4,1441.8,20100,82
+2026-10-22,Beam 1.0 501B A23B,reflection,Apache 2.0,1436.3,1423.5,1449.0,2944,83
+2026-10-22,GLM-4.7,zai,MIT,1435.4,1423.4,1447.5,4007,84
+2026-10-22,GLM-5,zai,MIT,1435.4,1427.2,1443.5,7498,85
+2026-10-22,MiMo-V2-Pro,xiaomi,Proprietary,1434.0,1425.9,1442.1,7278,86
+2026-10-22,Gemini 3.5 Flash-Lite,google,Proprietary,1434.0,1393.0,1475.0,237,87
+2026-10-22,DeepSeek-V4-Flash Preview (High),deepseek,MIT,1430.7,1423.7,1437.6,10113,88
+2026-10-22,GPT-5 (Medium),openai,Proprietary,1417.6,1402.0,1433.1,3092,89
+2026-10-22,GPT-5.2,openai,Proprietary,1416.7,1394.1,1439.3,1082,90
+2026-10-22,Inkling,thinky,Apache 2.0,1415.0,1408.9,1421.1,16181,91
+2026-10-22,Inkling-Small,thinky,Apache 2.0,1409.4,1400.3,1418.5,5328,92
+2026-10-22,GPT-5.3-Codex (Codex Harness),openai,Proprietary,1406.6,1392.9,1420.3,2641,93
+2026-10-22,Kimi K2.5 (Instant),moonshot,Modified MIT,1405.5,1393.5,1417.6,3264,94
+2026-10-22,GLM-5V-Turbo,zai,Proprietary,1401.7,1388.5,1415.0,2400,95
+2026-10-22,GPT-5.4,openai,Proprietary,1400.4,1390.2,1410.6,4246,96
+2026-10-22,Qwen3.5-397B-A17B,alibaba,Apache 2.0,1400.4,1395.2,1405.5,21176,97
+2026-10-22,NVIDIA-Nemotron-3.5-Super-VL-120B-A12B (NVFP4),nvidia,OpenMDW-1.1,1398.9,1384.1,1413.8,2271,98
+2026-10-22,MiniMax-M2.7,minimax,Modified MIT,1398.3,1392.5,1404.1,15977,99
+2026-10-22,GPT-5.4 mini (High),openai,Proprietary,1397.4,1390.9,1404.0,11958,100
+2026-10-22,GPT-5.1 (Medium),openai,Proprietary,1395.8,1384.3,1407.4,4911,101
+2026-10-22,"Claude Sonnet 4.5 (High, 32K, 20250929)",anthropic,Proprietary,1393.9,1386.1,1401.6,13255,102
+2026-10-22,Claude Opus 4.1 (20250805),anthropic,Proprietary,1390.4,1379.7,1401.1,6927,103
+2026-10-22,MiniMax-M2.5,minimax,Modified MIT,1386.3,1378.0,1394.6,7634,104
+2026-10-22,Claude Sonnet 4.5 (20250929),anthropic,Proprietary,1385.3,1378.1,1392.6,15747,105
+2026-10-22,Gemini 3 Flash (Minimal),google,Proprietary,1384.6,1379.4,1389.9,22184,106
+2026-10-22,MiniMax-M2.1 Preview,minimax,MIT,1384.4,1374.9,1394.0,7639,107
+2026-10-22,"Grok 4.20 Beta (Reasoning, 0309)",xai,Proprietary,1375.5,1369.4,1381.6,15468,108
+2026-10-22,GPT-5.3-Codex (Codex Harness),openai,Proprietary,1370.6,1359.3,1381.9,3667,109
+2026-10-22,Solar Pro 4,upstage,Proprietary,1370.1,1359.8,1380.5,4648,110
+2026-10-22,Gemma 4 31B,google,Apache 2.0,1368.2,1362.0,1374.4,14949,111
+2026-10-22,DeepSeek-V3.2 (Thinking),deepseek,MIT,1362.5,1353.4,1371.6,6923,112
+2026-10-22,Qwen3.5-122B-A10B,alibaba,Apache 2.0,1360.6,1352.9,1368.2,8262,113
+2026-10-22,Gemma 4 26B A4B,google,Apache 2.0,1359.8,1342.8,1376.7,1503,114
+2026-10-22,Qwen3.5-27B,alibaba,Apache 2.0,1358.5,1350.5,1366.5,7801,115
+2026-10-22,Grok 4.3,xai,Proprietary,1357.5,1351.3,1363.7,14966,116
+2026-10-22,Hy3 preview,tencent,tencent-hunyuan-community,1356.7,1339.4,1374.1,1452,117
+2026-10-22,Muse Glimmer,meta,Apache-2.0,1354.9,1339.3,1370.6,1645,118
+2026-10-22,Laguna M.1,poolside,Apache 2.0,1349.2,1339.9,1358.5,5390,119
+2026-10-22,GPT-5.1,openai,Proprietary,1341.6,1333.2,1350.1,10715,120
+2026-10-22,GLM-4.6,zai,MIT,1341.3,1330.5,1352.1,6781,121
+2026-10-22,GPT-5.2-Codex,openai,Proprietary,1338.8,1329.9,1347.8,6721,122
+2026-10-22,GPT-5.1-Codex,openai,Proprietary,1337.4,1325.8,1349.0,5008,123
+2026-10-22,MiMo-V2-Flash (Non-Thinking),xiaomi,MIT,1330.6,1320.8,1340.3,5690,124
+2026-10-22,Claude Haiku 4.5 (20251001),anthropic,Proprietary,1330.5,1325.6,1335.4,29086,125
+2026-10-22,DeepSeek-V3.2,deepseek,MIT,1326.0,1318.0,1334.0,9392,126
+2026-10-22,Kimi K2 Thinking Turbo,moonshot,Modified MIT,1322.6,1315.1,1330.0,13107,127
+2026-10-22,Laguna XS.2,poolside,Apache 2.0,1302.5,1291.8,1313.3,4222,128
+2026-10-22,MiniMax-M2,minimax,Apache 2.0,1297.2,1286.2,1308.1,6714,129
+2026-10-22,MiMo-V2-Flash (Thinking),xiaomi,MIT,1292.8,1276.3,1309.2,1685,130
+2026-10-22,Qwen3-Coder-480B-A35B-Instruct,alibaba,Apache 2.0,1274.7,1267.0,1282.5,12715,131
+2026-10-22,DeepSeek-V3.2-Exp,deepseek,MIT,1271.7,1258.2,1285.2,3969,132
+2026-10-22,Mistral Medium 3.5,mistral,Modified MIT,1264.1,1249.3,1278.9,2316,133
+2026-10-22,Gemini 3.1 Flash-Lite Preview,google,Proprietary,1256.4,1249.5,1263.2,14421,134
+2026-10-22,KAT-Coder-Pro V1,,Proprietary,1256.1,1236.6,1275.6,1504,135
+2026-10-22,Qwen3.5-35B-A3B,alibaba,Apache 2.0,1254.1,1236.6,1271.5,1617,136
+2026-10-22,GPT-5.1-Codex-Mini,openai,Proprietary,1243.8,1221.8,1265.9,1154,137
+2026-10-22,Qwen3.5-Flash,alibaba,Proprietary,1243.7,1224.0,1263.4,1328,138
+2026-10-22,Grok 4.1 Fast (Reasoning),xai,Proprietary,1242.2,1231.1,1253.3,5490,139
+2026-10-22,Trinity Large Thinking,,Apache 2.0,1237.9,1217.9,1257.9,1361,140
+2026-10-22,Mistral Large 3,mistral,Apache 2.0,1231.6,1206.1,1257.1,840,141
+2026-10-22,Gemini 2.5 Pro,google,Proprietary,1226.5,1210.6,1242.3,2728,142
+2026-10-22,Grok 4.1 (Thinking),xai,Proprietary,1214.7,1189.8,1239.6,961,143
+2026-10-22,Devstral 2,mistral,Modified MIT,1197.3,1176.5,1218.0,1183,144
+2026-10-22,Granite 4.1 8B,ibm,Apache 2.0,1192.2,1173.8,1210.7,1782,145
+2026-10-22,Mercury 2,inception-ai,Proprietary,1170.5,1146.0,1195.1,954,146
+2026-10-22,Grok Code Fast 1,xai,Proprietary,1166.5,1138.3,1194.8,789,147
+2026-10-22,Grok 4 Fast (Reasoning),xai,Proprietary,1159.3,1131.9,1186.7,742,148
+2026-10-22,Devstral Medium (2507),mistral,Proprietary,1071.6,1041.0,1102.2,842,149
+2026-10-23,Claude Opus 5.5 (Max),anthropic,Proprietary,1806.9,1793.6,1820.3,3140,1
+2026-10-23,GPT-6 Astra (Max),openai,Proprietary,1774.3,1764.4,1784.2,6579,2
+2026-10-23,Claude Sonnet 5.5 (xHigh),anthropic,Proprietary,1768.9,1756.7,1781.1,3822,3
+2026-10-23,GPT-6.1 Sol (Max),openai,Proprietary,1749.3,1737.1,1761.6,3469,4
+2026-10-23,Claude Fable 5.1 (Max),anthropic,Proprietary,1742.5,1733.7,1751.2,8098,5
+2026-10-23,Muse Wonder Full (Max),meta,Proprietary,1725.9,1712.0,1739.8,2253,6
+2026-10-23,Claude Sonnet 5.5 (High),anthropic,Proprietary,1709.2,1699.6,1718.8,5632,7
+2026-10-23,Kimi K3.1 Pro (Max),moonshot,Proprietary,1691.6,1678.1,1705.2,2451,8
+2026-10-23,Claude Opus 5 (Max),anthropic,Proprietary,1690.7,1684.5,1696.9,18995,9
+2026-10-23,GPT-6 Sol (Max),openai,Proprietary,1680.8,1670.9,1690.8,5008,10
+2026-10-23,Gemini 4 Argon (High),google,Proprietary,1674.2,1661.5,1686.8,2729,11
+2026-10-23,Qwen3.8-Max (0902),alibaba,Proprietary,1673.1,1666.2,1680.0,15637,12
+2026-10-23,Qwen3.8-Max,alibaba,Proprietary,1672.2,1660.2,1684.3,3429,13
+2026-10-23,DeepSeek-V4.1-Flash-20261017 (Max),deepseek,MIT,1665.0,1651.9,1678.0,2500,14
+2026-10-23,Claude Opus 5 (High),anthropic,Proprietary,1658.6,1653.2,1663.9,25607,15
+2026-10-23,Muse Spark 1.3 (Max),meta,Proprietary,1657.2,1649.5,1664.9,9921,16
+2026-10-23,Kimi K3 (Max),moonshot,Kimi K3 license,1654.9,1648.9,1660.8,20312,17
+2026-10-23,Muse Wonder (Max),meta,Proprietary,1651.0,1638.3,1663.6,2733,18
+2026-10-23,Grok 4.7 (xHigh),xai,Proprietary,1637.9,1628.7,1647.2,5725,19
+2026-10-23,MiMo-V2.6-Flash,xiaomi,MIT,1634.8,1625.7,1644.0,5749,20
+2026-10-23,Hy4 preview,tencent,Apache 2.0,1631.2,1621.6,1640.9,4788,21
+2026-10-23,Qwen3.8-Flash-Next,alibaba,qwen-community-1.0,1628.8,1620.9,1636.6,8866,22
+2026-10-23,MiMo-V2.6-Pro,xiaomi,MIT,1625.4,1616.3,1634.5,5678,23
+2026-10-23,Claude Fable 5 (High),anthropic,Proprietary,1624.3,1618.2,1630.3,16342,24
+2026-10-23,GLM-5.3 (Max),zai,MIT,1622.8,1615.4,1630.2,10315,25
+2026-10-23,Muse Spark 1.3 (xHigh),meta,Proprietary,1620.1,1612.4,1627.7,9289,26
+2026-10-23,DeepSeek-V4.1-Flash-20260910 (Max),deepseek,MIT,1618.6,1607.6,1629.5,3530,27
+2026-10-23,Grok 4.6 (High),xai,Proprietary,1616.6,1609.5,1623.8,11022,28
+2026-10-23,"GPT-5.6 Sol (xHigh, Codex Harness)",openai,Proprietary,1615.1,1609.3,1620.9,18243,29
+2026-10-23,GLM-5.3-Flash,zai,MIT,1607.7,1601.3,1614.2,19680,30
+2026-10-23,GLM-5.2 (Max),zai,MIT,1604.3,1598.3,1610.2,17082,31
+2026-10-23,Qwen3.8-27B,alibaba,Apache 2.0,1591.4,1584.9,1597.8,17186,32
+2026-10-23,Gemini 3.7 Flash (High),google,Proprietary,1590.3,1583.6,1597.0,13307,33
+2026-10-23,MiniMax-M3.1-Flash,minimax,MiniMax Community License,1588.8,1575.5,1602.1,2212,34
+2026-10-23,Claude Haiku 5.5 (High),anthropic,Proprietary,1585.6,1575.2,1596.1,3917,35
+2026-10-23,Gemini 3.8 Flash (High),google,Proprietary,1584.9,1577.7,1592.2,11405,36
+2026-10-23,"DeepSeek-V4-Pro (High, 20260813)",deepseek,MIT,1582.3,1572.8,1591.7,4714,37
+2026-10-23,DeepSeek-V4-Flash (High),deepseek,MIT,1581.9,1572.6,1591.2,4939,38
+2026-10-23,GPT-6 Luna (Max),openai,Proprietary,1578.6,1572.6,1584.5,24354,39
+2026-10-23,Step 5 Preview (High),stepfun,Proprietary,1568.0,1558.5,1577.4,5193,40
+2026-10-23,Claude Opus 4.7 (High),anthropic,Proprietary,1557.7,1552.0,1563.5,17920,41
+2026-10-23,Claude Opus 4.8 (High),anthropic,Proprietary,1556.0,1550.2,1561.7,18486,42
+2026-10-23,Claude Opus 4.7,anthropic,Proprietary,1555.4,1549.8,1561.0,18243,43
+2026-10-23,Grok 4.5,xai,Proprietary,1552.8,1546.1,1559.5,11083,44
+2026-10-23,Claude Opus 4.6 (High),anthropic,Proprietary,1546.3,1540.9,1551.8,19404,45
+2026-10-23,Mistral Large 4,mistral,Proprietary,1544.8,1533.3,1556.4,3269,46
+2026-10-23,Muse Spark 1.1,meta,Proprietary,1542.5,1534.8,1550.1,7970,47
+2026-10-23,Claude Sonnet 5 (High),anthropic,Proprietary,1540.5,1534.6,1546.4,16187,48
+2026-10-23,Gemini 3.6 Flash (High),google,Proprietary,1538.0,1530.5,1545.5,8758,49
+2026-10-23,Claude Opus 4.6,anthropic,Proprietary,1537.2,1531.9,1542.6,20647,50
+2026-10-23,Claude Opus 4.8,anthropic,Proprietary,1535.6,1529.9,1541.3,17386,51
+2026-10-23,Muse Spark 1.2 (xHigh),meta,Proprietary,1533.2,1519.6,1546.9,2163,52
+2026-10-23,Muse Spark Open (Max),meta,muse-model-license,1526.4,1509.9,1542.9,1476,53
+2026-10-23,Claude Sonnet 4.6,anthropic,Proprietary,1522.7,1517.5,1527.8,22852,54
+2026-10-23,"GPT-5.6 Terra (xHigh, Codex Harness)",openai,Proprietary,1520.5,1514.3,1526.7,14450,55
+2026-10-23,Seed2.1 Pro Preview,bytedance,Proprietary,1519.9,1513.9,1525.8,15499,56
+2026-10-23,"GPT-5.6 Luna (xHigh, Codex Harness)",openai,Proprietary,1518.9,1512.5,1525.3,12575,57
+2026-10-23,Qwen3.7-Max (20260517),alibaba,Proprietary,1515.3,1507.9,1522.7,8888,58
+2026-10-23,"GPT-5.5 (xHigh, Codex Harness)",openai,Proprietary,1512.5,1506.5,1518.5,15620,59
+2026-10-23,Kimi K2.6,moonshot,Modified MIT,1509.4,1502.1,1516.6,10172,60
+2026-10-23,GLM-5.1,zai,MIT,1508.0,1501.2,1514.8,10703,61
+2026-10-23,Hy3,tencent,Apache 2.0,1506.1,1497.8,1514.4,6408,62
+2026-10-23,Gemini 3.5 Flash (High),google,Proprietary,1499.2,1491.9,1506.4,9382,63
+2026-10-23,"Claude Opus 4.5 (High, 32K, 20251101)",anthropic,Proprietary,1493.8,1485.5,1502.1,11033,64
+2026-10-23,Gemini 3.5 Flash (Medium),google,Proprietary,1490.8,1484.1,1497.4,12139,65
+2026-10-23,"GPT-5.5 (High, Codex Harness)",openai,Proprietary,1487.0,1481.0,1492.9,17940,66
+2026-10-23,MiniMax-M3,minimax,MiniMax Community License,1482.3,1476.8,1487.8,20251,67
+2026-10-23,Qwen3.6-Max-Preview,alibaba,Proprietary,1482.1,1469.6,1494.6,2716,68
+2026-10-23,MiMo-V2.5-Pro,xiaomi,MIT,1480.5,1475.3,1485.8,22766,69
+2026-10-23,Spark-X2.6,synlan,Proprietary,1480.0,1460.4,1499.5,1144,70
+2026-10-23,Kimi K2.7 Code,moonshot,Modified MIT,1473.5,1464.1,1482.9,4961,71
+2026-10-23,Claude Opus 4.5 (20251101),anthropic,Proprietary,1469.5,1462.3,1476.7,13427,72
+2026-10-23,DeepSeek-V4-Pro Preview (High),deepseek,MIT,1464.4,1458.1,1470.7,13164,73
+2026-10-23,"GPT-5.4 (High, Codex Harness)",openai,Proprietary,1463.7,1444.8,1482.5,1351,74
+2026-10-23,Qwen3.6-Plus,alibaba,Proprietary,1461.6,1456.0,1467.2,18585,75
+2026-10-23,GPT-5.5 (Codex Harness),openai,Proprietary,1456.3,1450.5,1462.2,15872,76
+2026-10-23,DeepSeek-V4-Pro,deepseek,MIT,1447.1,1440.7,1453.4,13978,77
+2026-10-23,Gemini 3.1 Pro Preview,google,Proprietary,1446.7,1441.6,1451.7,24232,78
+2026-10-23,"GPT-5.4 (Medium, Codex Harness)",openai,Proprietary,1443.8,1425.6,1462.1,1376,79
+2026-10-23,Gemini 3 Pro,google,Proprietary,1440.4,1431.9,1448.8,14098,80
+2026-10-23,Gemini 3 Flash,google,Proprietary,1440.1,1431.5,1448.7,10893,81
+2026-10-23,MiMo-V2.5,xiaomi,MIT,1438.4,1432.3,1444.4,14904,82
+2026-10-23,Kimi K2.5 (Thinking),moonshot,Modified MIT,1436.6,1431.4,1441.8,20102,83
+2026-10-23,Beam 1.0 501B A23B,reflection,Apache 2.0,1436.2,1423.5,1448.9,2949,84
+2026-10-23,GLM-4.7,zai,MIT,1435.4,1423.4,1447.5,4007,85
+2026-10-23,GLM-5,zai,MIT,1435.4,1427.2,1443.5,7497,86
+2026-10-23,Gemini 3.5 Flash-Lite,google,Proprietary,1433.9,1393.0,1474.9,237,87
+2026-10-23,MiMo-V2-Pro,xiaomi,Proprietary,1433.9,1425.8,1442.1,7277,88
+2026-10-23,DeepSeek-V4-Flash Preview (High),deepseek,MIT,1430.7,1423.7,1437.6,10111,89
+2026-10-23,GPT-5 (Medium),openai,Proprietary,1417.6,1402.0,1433.1,3092,90
+2026-10-23,GPT-5.2,openai,Proprietary,1416.7,1394.1,1439.2,1082,91
+2026-10-23,Inkling,thinky,Apache 2.0,1414.9,1408.8,1421.0,16256,92
+2026-10-23,Inkling-Small,thinky,Apache 2.0,1409.2,1400.1,1418.3,5329,93
+2026-10-23,GPT-5.3-Codex (Codex Harness),openai,Proprietary,1406.6,1392.9,1420.3,2641,94
+2026-10-23,Kimi K2.5 (Instant),moonshot,Modified MIT,1405.5,1393.5,1417.6,3264,95
+2026-10-23,GLM-5V-Turbo,zai,Proprietary,1401.5,1388.3,1414.7,2403,96
+2026-10-23,GPT-5.4,openai,Proprietary,1400.6,1390.4,1410.8,4247,97
+2026-10-23,Qwen3.5-397B-A17B,alibaba,Apache 2.0,1400.3,1395.2,1405.4,21176,98
+2026-10-23,MiniMax-M2.7,minimax,Modified MIT,1398.2,1392.4,1403.9,15975,99
+2026-10-23,NVIDIA-Nemotron-3.5-Super-VL-120B-A12B (NVFP4),nvidia,OpenMDW-1.1,1398.1,1383.4,1412.9,2332,100
+2026-10-23,GPT-5.4 mini (High),openai,Proprietary,1397.5,1390.9,1404.0,11959,101
+2026-10-23,GPT-5.1 (Medium),openai,Proprietary,1395.7,1384.2,1407.2,4914,102
+2026-10-23,"Claude Sonnet 4.5 (High, 32K, 20250929)",anthropic,Proprietary,1393.8,1386.1,1401.6,13255,103
+2026-10-23,Claude Opus 4.1 (20250805),anthropic,Proprietary,1390.6,1379.8,1401.3,6929,104
+2026-10-23,MiniMax-M2.5,minimax,Modified MIT,1386.3,1378.0,1394.6,7634,105
+2026-10-23,Claude Sonnet 4.5 (20250929),anthropic,Proprietary,1385.3,1378.0,1392.5,15748,106
+2026-10-23,Gemini 3 Flash (Minimal),google,Proprietary,1384.7,1379.4,1389.9,22185,107
+2026-10-23,MiniMax-M2.1 Preview,minimax,MIT,1384.5,1374.9,1394.0,7641,108
+2026-10-23,"Grok 4.20 Beta (Reasoning, 0309)",xai,Proprietary,1375.5,1369.4,1381.5,15469,109
+2026-10-23,GPT-5.3-Codex (Codex Harness),openai,Proprietary,1370.5,1359.2,1381.8,3668,110
+2026-10-23,Solar Pro 4,upstage,Proprietary,1370.2,1359.8,1380.5,4651,111
+2026-10-23,Gemma 4 31B,google,Apache 2.0,1368.4,1362.2,1374.6,14986,112
+2026-10-23,DeepSeek-V3.2 (Thinking),deepseek,MIT,1362.5,1353.4,1371.5,6925,113
+2026-10-23,Qwen3.5-122B-A10B,alibaba,Apache 2.0,1360.6,1353.0,1368.3,8263,114
+2026-10-23,Gemma 4 26B A4B,google,Apache 2.0,1359.7,1342.8,1376.6,1503,115
+2026-10-23,Qwen3.5-27B,alibaba,Apache 2.0,1358.5,1350.5,1366.5,7802,116
+2026-10-23,Grok 4.3,xai,Proprietary,1357.5,1351.2,1363.7,14970,117
+2026-10-23,Hy3 preview,tencent,tencent-hunyuan-community,1356.8,1339.5,1374.2,1453,118
+2026-10-23,Muse Glimmer,meta,Apache-2.0,1354.7,1339.0,1370.4,1642,119
+2026-10-23,Laguna M.1,poolside,Apache 2.0,1349.1,1339.8,1358.3,5387,120
+2026-10-23,GPT-5.1,openai,Proprietary,1341.7,1333.2,1350.2,10715,121
+2026-10-23,GLM-4.6,zai,MIT,1341.3,1330.5,1352.1,6781,122
+2026-10-23,GPT-5.2-Codex,openai,Proprietary,1338.8,1329.9,1347.8,6721,123
+2026-10-23,GPT-5.1-Codex,openai,Proprietary,1337.1,1325.6,1348.7,5012,124
+2026-10-23,MiMo-V2-Flash (Non-Thinking),xiaomi,MIT,1330.6,1320.8,1340.3,5690,125
+2026-10-23,Claude Haiku 4.5 (20251001),anthropic,Proprietary,1330.5,1325.6,1335.4,29087,126
+2026-10-23,DeepSeek-V3.2,deepseek,MIT,1326.1,1318.1,1334.1,9392,127
+2026-10-23,Kimi K2 Thinking Turbo,moonshot,Modified MIT,1322.6,1315.1,1330.0,13111,128
+2026-10-23,Laguna XS.2,poolside,Apache 2.0,1302.6,1291.9,1313.3,4223,129
+2026-10-23,MiniMax-M2,minimax,Apache 2.0,1297.1,1286.2,1308.0,6719,130
+2026-10-23,MiMo-V2-Flash (Thinking),xiaomi,MIT,1292.8,1276.3,1309.2,1685,131
+2026-10-23,Qwen3-Coder-480B-A35B-Instruct,alibaba,Apache 2.0,1274.7,1267.0,1282.5,12715,132
+2026-10-23,DeepSeek-V3.2-Exp,deepseek,MIT,1271.7,1258.2,1285.2,3970,133
+2026-10-23,Mistral Medium 3.5,mistral,Modified MIT,1264.2,1249.4,1279.0,2315,134
+2026-10-23,Gemini 3.1 Flash-Lite Preview,google,Proprietary,1256.4,1249.5,1263.2,14418,135
+2026-10-23,KAT-Coder-Pro V1,,Proprietary,1256.1,1236.6,1275.6,1504,136
+2026-10-23,Qwen3.5-35B-A3B,alibaba,Apache 2.0,1254.1,1236.6,1271.5,1617,137
+2026-10-23,GPT-5.1-Codex-Mini,openai,Proprietary,1243.8,1221.8,1265.8,1154,138
+2026-10-23,Qwen3.5-Flash,alibaba,Proprietary,1243.7,1224.0,1263.3,1328,139
+2026-10-23,Grok 4.1 Fast (Reasoning),xai,Proprietary,1242.2,1231.1,1253.3,5491,140
+2026-10-23,Trinity Large Thinking,,Apache 2.0,1237.9,1217.9,1257.9,1361,141
+2026-10-23,Mistral Large 3,mistral,Apache 2.0,1231.5,1206.0,1257.0,840,142
+2026-10-23,Gemini 2.5 Pro,google,Proprietary,1226.5,1210.6,1242.3,2729,143
+2026-10-23,Grok 4.1 (Thinking),xai,Proprietary,1214.7,1189.8,1239.6,961,144
+2026-10-23,Devstral 2,mistral,Modified MIT,1197.3,1176.6,1218.0,1183,145
+2026-10-23,Granite 4.1 8B,ibm,Apache 2.0,1192.4,1174.0,1210.8,1781,146
+2026-10-23,Mercury 2,inception-ai,Proprietary,1170.5,1146.0,1195.1,954,147
+2026-10-23,Grok Code Fast 1,xai,Proprietary,1166.5,1138.3,1194.8,789,148
+2026-10-23,Grok 4 Fast (Reasoning),xai,Proprietary,1159.8,1132.5,1187.2,743,149
+2026-10-23,Devstral Medium (2507),mistral,Proprietary,1071.6,1041.0,1102.3,842,150
