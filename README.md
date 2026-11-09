@@ -10,26 +10,26 @@ Two questions it answers at a glance:
 ## Latest standings
 
 <!-- LEADERBOARD_START -->
-_Tracked history: Text: 171 snapshots · WebDev: 103 snapshots · Vision: 115 snapshots_
+_Tracked history: Text: 173 snapshots · WebDev: 105 snapshots · Vision: 117 snapshots_
 
 ### Text Arena
 
-Leaderboard published 2026-10-28 · change vs 2026-10-20.
+Leaderboard published 2026-11-08 · change vs 2026-10-28.
 
 | # | Δ | Model | Lab | License | Rating | 95% CI | Votes |
 |--:|:-:|-------|-----|---------|-------:|:------:|------:|
-| 1 | 🆕 | `Gemini 4 Carbon (High)` | google | Proprietary | 1540 | 1531–1549 | 4,403 |
-| 2 | ▼1 | `Gemini 4 Argon (High)` | google | Proprietary | 1529 | 1522–1535 | 11,889 |
-| 3 | ▼1 | `Claude Opus 5.5 (High)` | anthropic | Proprietary | 1516 | 1509–1522 | 11,415 |
-| 4 | ▼1 | `Claude Fable 5.1 (Max)` | anthropic | Proprietary | 1514 | 1508–1520 | 17,178 |
-| 5 | ▼1 | `Claude Opus 5 (Max)` | anthropic | Proprietary | 1508 | 1503–1513 | 35,531 |
-| 6 | ▼1 | `Claude Opus 5 (High)` | anthropic | Proprietary | 1504 | 1500–1508 | 73,167 |
-| 7 | = | `Claude Opus 4.6 (High)` | anthropic | Proprietary | 1502 | 1498–1505 | 84,512 |
-| 8 | ▼2 | `Muse Wonder (Max)` | meta | Proprietary | 1499 | 1492–1506 | 7,749 |
-| 9 | ▼1 | `Gemini 3.8 Flash (High)` | google | Proprietary | 1498 | 1494–1503 | 47,803 |
-| 10 | ▼1 | `Claude Opus 4.6` | anthropic | Proprietary | 1496 | 1493–1499 | 89,324 |
+| 1 | = | `Gemini 4 Carbon (High)` | google | Proprietary | 1539 | 1529–1548 | 4,281 |
+| 2 | = | `Gemini 4 Argon (High)` | google | Proprietary | 1530 | 1524–1535 | 18,850 |
+| 3 | ▲1 | `Claude Fable 5.1 (Max)` | anthropic | Proprietary | 1513 | 1507–1518 | 19,755 |
+| 4 | ▼1 | `Claude Opus 5.5 (High)` | anthropic | Proprietary | 1513 | 1507–1519 | 14,815 |
+| 5 | = | `Claude Opus 5 (Max)` | anthropic | Proprietary | 1506 | 1502–1511 | 35,712 |
+| 6 | ▲2 | `Muse Wonder (Max)` | meta | Proprietary | 1504 | 1498–1511 | 11,483 |
+| 7 | ▼1 | `Claude Opus 5 (High)` | anthropic | Proprietary | 1502 | 1499–1506 | 73,730 |
+| 8 | ▼1 | `Claude Opus 4.6 (High)` | anthropic | Proprietary | 1502 | 1498–1505 | 84,428 |
+| 9 | = | `Gemini 3.8 Flash (High)` | google | Proprietary | 1500 | 1496–1505 | 59,624 |
+| 10 | = | `Claude Opus 4.6` | anthropic | Proprietary | 1497 | 1494–1500 | 89,224 |
 
-Best open-weight model: `MiMo-V2.6-Pro` (xiaomi, MIT) at #12 with 1491.
+Best open-weight model: `MiMo-V2.6-Pro` (xiaomi, MIT) at #11 with 1492.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="charts/text-frontier-dark.png"><img alt="Text Arena frontier race chart" src="charts/text-frontier.png"></picture>
 
@@ -37,22 +37,22 @@ Best open-weight model: `MiMo-V2.6-Pro` (xiaomi, MIT) at #12 with 1491.
 
 ### WebDev Arena
 
-Leaderboard published 2026-10-28 · change vs 2026-10-19.
+Leaderboard published 2026-11-08 · change vs 2026-10-28.
 
 | # | Δ | Model | Lab | License | Rating | 95% CI | Votes |
 |--:|:-:|-------|-----|---------|-------:|:------:|------:|
-| 1 | = | `Claude Opus 5.5 (Max)` | anthropic | Proprietary | 1810 | 1797–1823 | 3,473 |
-| 2 | = | `GPT-6 Astra (Max)` | openai | Proprietary | 1773 | 1764–1783 | 7,210 |
-| 3 | = | `Claude Sonnet 5.5 (xHigh)` | anthropic | Proprietary | 1770 | 1758–1781 | 4,469 |
-| 4 | 🆕 | `Gemini 4 Carbon (High)` | google | Proprietary | 1768 | 1753–1783 | 2,230 |
-| 5 | ▼1 | `GPT-6.1 Sol (Max)` | openai | Proprietary | 1751 | 1739–1762 | 4,092 |
-| 6 | ▼1 | `Claude Fable 5.1 (Max)` | anthropic | Proprietary | 1746 | 1737–1754 | 8,614 |
-| 7 | ▼1 | `Muse Wonder Full (Max)` | meta | Proprietary | 1725 | 1712–1739 | 2,248 |
-| 8 | ▼1 | `Claude Sonnet 5.5 (High)` | anthropic | Proprietary | 1711 | 1701–1720 | 6,371 |
-| 9 | 🆕 | `Kimi K3.1 Pro (Max)` | moonshot | Proprietary | 1695 | 1682–1708 | 2,671 |
-| 10 | ▼2 | `Claude Opus 5 (Max)` | anthropic | Proprietary | 1690 | 1684–1697 | 19,641 |
+| 1 | = | `Claude Opus 5.5 (Max)` | anthropic | Proprietary | 1818 | 1806–1830 | 4,034 |
+| 2 | ▲1 | `Claude Sonnet 5.5 (xHigh)` | anthropic | Proprietary | 1774 | 1763–1784 | 5,536 |
+| 3 | ▲1 | `Gemini 4 Carbon (High)` | google | Proprietary | 1768 | 1753–1783 | 2,130 |
+| 4 | ▼2 | `GPT-6 Astra (Max)` | openai | Proprietary | 1767 | 1758–1776 | 8,161 |
+| 5 | ▲1 | `Claude Fable 5.1 (Max)` | anthropic | Proprietary | 1744 | 1736–1752 | 9,507 |
+| 6 | ▼1 | `GPT-6.1 Sol (Max)` | openai | Proprietary | 1743 | 1733–1753 | 5,283 |
+| 7 | = | `Muse Wonder Full (Max)` | meta | Proprietary | 1724 | 1709–1738 | 2,080 |
+| 8 | = | `Claude Sonnet 5.5 (High)` | anthropic | Proprietary | 1713 | 1705–1722 | 7,582 |
+| 9 | ▲1 | `Claude Opus 5 (Max)` | anthropic | Proprietary | 1691 | 1685–1697 | 19,583 |
+| 10 | ▼1 | `Kimi K3.1 Pro (Max)` | moonshot | Open (Kimi K3.1 Pro License) | 1687 | 1677–1697 | 4,651 |
 
-Best open-weight model: `DeepSeek-V4.1-Flash-20261017 (Max)` (deepseek, MIT) at #16 with 1665.
+Best open-weight model: `Kimi K3.1 Pro (Max)` (moonshot, Kimi K3.1 Pro License) at #10 with 1687.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="charts/webdev-frontier-dark.png"><img alt="WebDev Arena frontier race chart" src="charts/webdev-frontier.png"></picture>
 
@@ -60,22 +60,22 @@ Best open-weight model: `DeepSeek-V4.1-Flash-20261017 (Max)` (deepseek, MIT) at 
 
 ### Vision Arena
 
-Leaderboard published 2026-10-19 · change vs 2026-10-09.
+Leaderboard published 2026-11-08 · change vs 2026-10-19.
 
 | # | Δ | Model | Lab | License | Rating | 95% CI | Votes |
 |--:|:-:|-------|-----|---------|-------:|:------:|------:|
-| 1 | 🆕 | `Claude Fable 5 (High)` | anthropic | Proprietary | 1325 | 1318–1332 | 14,714 |
-| 2 | 🆕 | `Claude Opus 5.5 (High)` | anthropic | Proprietary | 1321 | 1309–1332 | 3,035 |
-| 3 | 🆕 | `Claude Opus 5 (High)` | anthropic | Proprietary | 1320 | 1313–1326 | 17,743 |
-| 4 | 🆕 | `Claude Fable 5.1 (Max)` | anthropic | Proprietary | 1320 | 1310–1329 | 5,026 |
-| 5 | 🆕 | `Claude Opus 4.7` | anthropic | Proprietary | 1317 | 1310–1324 | 23,139 |
-| 6 | 🆕 | `Claude Opus 4.6 (High)` | anthropic | Proprietary | 1316 | 1309–1322 | 22,286 |
-| 7 | 🆕 | `Gemini 3.8 Flash (High)` | google | Proprietary | 1315 | 1306–1325 | 4,645 |
-| 8 | 🆕 | `Gemini 3.7 Flash (High)` | google | Proprietary | 1314 | 1305–1323 | 5,369 |
-| 9 | 🆕 | `Claude Opus 4.7 (High)` | anthropic | Proprietary | 1313 | 1307–1320 | 22,731 |
-| 10 | 🆕 | `Qwen3.8-Max` | alibaba | Proprietary | 1313 | 1306–1320 | 9,957 |
+| 1 | = | `Claude Fable 5 (High)` | anthropic | Proprietary | 1326 | 1319–1332 | 15,527 |
+| 2 | = | `Claude Opus 5.5 (High)` | anthropic | Proprietary | 1324 | 1314–1334 | 4,829 |
+| 3 | ▲1 | `Claude Fable 5.1 (Max)` | anthropic | Proprietary | 1322 | 1313–1330 | 6,330 |
+| 4 | ▲1 | `Claude Opus 4.7` | anthropic | Proprietary | 1318 | 1312–1325 | 23,826 |
+| 5 | ▼2 | `Claude Opus 5 (High)` | anthropic | Proprietary | 1317 | 1311–1324 | 19,342 |
+| 6 | ▲1 | `Gemini 3.8 Flash (High)` | google | Proprietary | 1317 | 1309–1325 | 7,682 |
+| 7 | ▼1 | `Claude Opus 4.6 (High)` | anthropic | Proprietary | 1316 | 1309–1322 | 22,109 |
+| 8 | ▲1 | `Claude Opus 4.7 (High)` | anthropic | Proprietary | 1314 | 1307–1320 | 22,590 |
+| 9 | ▼1 | `Gemini 3.7 Flash (High)` | google | Proprietary | 1313 | 1305–1322 | 6,839 |
+| 10 | = | `Qwen3.8-Max` | alibaba | Proprietary | 1312 | 1305–1320 | 9,839 |
 
-Best open-weight model: `GLM-5.3-Flash` (zai, MIT) at #24 with 1294.
+Best open-weight model: `GLM-5.3-Flash` (zai, MIT) at #23 with 1295.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="charts/vision-frontier-dark.png"><img alt="Vision Arena frontier race chart" src="charts/vision-frontier.png"></picture>
 
